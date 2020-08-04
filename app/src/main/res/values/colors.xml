@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#77DD77</color>
+    <color name="colorPrimaryDark">#141518</color>
+    <color name="colorAccent">#03C03C</color>
+
+    <color name="logo_bag_color">#0b2637</color>
+
+</resources>

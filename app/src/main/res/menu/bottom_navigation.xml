@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/navigation_icon1"
+        android:icon="@drawable/ic_baseline_access_time_24"
+        android:title="Contests"/>
+
+    <item android:id="@+id/navigation_icon2"
+        android:icon="@drawable/ic_baseline_account_circle_24"
+        android:title="Profile"/>
+
+    <item android:id="@+id/navigation_icon3"
+        android:icon="@drawable/star"
+        android:title="Custom"/>
+
+</menu>

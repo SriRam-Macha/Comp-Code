@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "703230301937",
+    "firebase_url": "https://comp-code.firebaseio.com",
+    "project_id": "comp-code",
+    "storage_bucket": "comp-code.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703230301937:android:e8a4711c2a07391f5b3b50",
+        "android_client_info": {
+          "package_name": "com.mrwhitehat.compcode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703230301937-f0v7ucmbr8h8pbbl2mc9s0oba1sa6prj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mrwhitehat.compcode",
+            "certificate_hash": "2b05dc689dd47557ecefe5ed1e110788031249fc"
+          }
+        },
+        {
+          "client_id": "703230301937-nkdi628ohlm75ld3er86327opul0lght.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkuWVGdDCHKvj4ttteqdJ_V1xxzPa-XCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703230301937-nkdi628ohlm75ld3er86327opul0lght.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
