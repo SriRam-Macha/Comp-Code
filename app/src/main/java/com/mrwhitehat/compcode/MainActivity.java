@@ -61,7 +61,7 @@ public class MainActivity extends AppCompatActivity implements BottomNavigationV
 
     int check_runner = 0;
     private RequestQueue result_queue;
-    private static String JSON_URL = "https://coding-notify.herokuapp.com/";
+    private static String JSON_URL = "Confidential";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
